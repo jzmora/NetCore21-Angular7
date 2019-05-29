@@ -5,3 +5,4 @@ Requisitos :
 First, download and install Visual Studio 2017 from this link. Visual Studio Community version is free. You can also use any later versions including Visual Studio 2019. 
 Download and install .NET Core 2.0 or later versions.
 Download and install the latest version of Node.js from this download link.
+
